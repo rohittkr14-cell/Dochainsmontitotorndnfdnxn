@@ -20,7 +20,7 @@ from telegram.constants import ParseMode
 # 🔥 APNA CONFIG YAHAN DAALO
 # ============================================================
 BOT_TOKEN = "8693740442:AAHAfZ0mr91h3W2r58b5uatte5f-QP0HJzg"
-HIKERAPI_KEY = "u6l3fllahmnbpft4razg3s8nzuhm10e3"
+HIKERAPI_KEY = "41a3hrfdim5ckd3fxetetxlruvvpkqs3"
 ADMIN_IDS = [7691071175]
 # ============================================================
 
